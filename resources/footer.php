@@ -1,5 +1,5 @@
 <footer>
     <div style='text-align: center; padding-top: 50px'>
-      &copy; Josh Dietrich and Sam Law 2017
+      &copy; Josh Dietrich and Sam Law 2017 - Additions by Will Roberts
     </div>
 </footer>
